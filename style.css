@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}    
+
+.totals{
+    
+    text-align: right;
+    margin-right: 490px;
+}
+
+#przycisk{
+    float: right;
+    margin-right: 490;
+    margin-bottom: 40px;
+    
+}
+
+#shopCart {
+    background-color: aliceblue;
+}
+
+#header {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#contactModal {
+
+    margin-right: 40px;
+}
